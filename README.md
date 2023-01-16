@@ -1,8 +1,9 @@
 # CROWD-FLOW-ANALYSIS-OF-KAABA-DURING-THE-COVID-19-PANDEMIC
-Code of CROWD-FLOW-ANALYSIS-OF-KAABA-DURING-THE-COVID-19-PANDEMIC Project 
+Code of CROWD-FLOW-ANALYSIS-OF-KAABA-DURING-THE-COVID-19-PANDEMIC Project
 
 
 # it's a project to read how the flow of tawaf walk around Kaaba.
+# After cloning project run main.py.
 
 
 # SuperVisor: Dr. Ali Mustafa Qamar
